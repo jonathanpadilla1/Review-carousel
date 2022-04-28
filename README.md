@@ -1,6 +1,6 @@
 # Review-carousel
 
-JavaScript Review carousel project that displays customer reviews.<br/>
+>JavaScript Review carousel project that displays customer reviews.<br/>
 
 ![My Image](images/img-1.png)
 
